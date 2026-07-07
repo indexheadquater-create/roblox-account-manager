@@ -27,3 +27,8 @@ Everything stays on your machine. Nothing is sent anywhere except to Roblox itse
 ## A note on safety
 
 Your `.ROBLOSECURITY` cookie is basically your account. Do not share it, do not paste it into random sites, and be careful who you send an exported cookie to. This app keeps them encrypted for that exact reason.
+
+## SCREENSHOTS
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/77d3b723-a0aa-40ff-b581-218dd20039c3" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/87674456-9a88-46a0-b4ac-c4dad0563dfb" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/430a7127-8fd1-4a6a-b24f-2e5907091a3b" />
