@@ -40,6 +40,9 @@ The installer does **not** contain malware, spyware, or unwanted software. If yo
 
 If you downloaded the installer from the official GitHub release page and trust the source, you can continue by clicking **More info** and then **Run anyway**.
 
+[VirusTotal Link](https://www.virustotal.com/gui/file/159436b47cc04c67804de68e5aba99d685fa7fcb167255b1e5ba4f41a9013ba2?nocache=1)
+3/67 (3 because it is a installer and they are false)
+
 ## Where your data lives
 
 Everything stays on your machine. Nothing is sent anywhere except to Roblox itself.
