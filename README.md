@@ -15,6 +15,13 @@ Built with Tauri, so the app stays small and light instead of shipping a whole b
 - Drag accounts to reorder them, search by name, and select several at once for bulk launch or removal.
 - Auto-updates itself when a new version is released.
 
+## How to use
+- Add an account from the Add Account button.
+<img width="1684" height="72" alt="image" src="https://github.com/user-attachments/assets/ca054f74-fd11-46f5-9cd1-d4bf4157b5e7" />
+- Click on the 1st (Browser) button to open the account in a browser window.
+- Click on the 2nd (Join PS) button to join a private server link. Make sure to set a PS Link to enable this feature.
+- Click on the 3rd (Launch) button to open roblox with the respective account logged in.
+
 ## Where your data lives
 
 Everything stays on your machine. Nothing is sent anywhere except to Roblox itself.
